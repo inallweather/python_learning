@@ -51,6 +51,7 @@ class SingleLinkList:
         node.next = None  # 在添加的的节点的next指向空
 
     def travel(self):
+        """遍历并打印每一项"""
         cur = self.head
         while cur:
             print(cur.value, end=' ')
