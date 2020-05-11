@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60668d03-ca6d-4165-9b43-f7d12b3da82f" name="Default Changelist" comment="" />
+    <list default="true" id="60668d03-ca6d-4165-9b43-f7d12b3da82f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/single_link_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/single_link_list.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +16,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="1a5f8b1c-71a5-41bc-a74d-429bcf6173ef" />
   <component name="ProjectId" id="1bkYs1QcWqegm2tD3baGdcmzUcN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -65,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589177761249</updated>
-      <workItem from="1589177762393" duration="1764000" />
+      <workItem from="1589177762393" duration="2048000" />
     </task>
     <servers />
   </component>
@@ -73,6 +80,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="448" y="143" key="CommitChangelistDialog2" timestamp="1589180350113">
+      <screen x="0" y="23" width="1792" height="1044" />
+    </state>
+    <state x="448" y="143" key="CommitChangelistDialog2/0.23.1792.1044@0.23.1792.1044" timestamp="1589180350113" />
     <state width="1748" height="285" key="GridCell.Tab.0.bottom" timestamp="1589179639681">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
