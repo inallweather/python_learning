@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60668d03-ca6d-4165-9b43-f7d12b3da82f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv学习/binnary_img.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv学习/img/CPU2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv学习/init_canvas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opencv学习/interpolation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/excise01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python学习/excise02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencv学习/img_binary_deal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python学习/linked_public_node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python学习/linked_reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python学习/merge_linked.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python学习/excise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/python学习/excise02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,30 +52,8 @@
       <recent name="$PROJECT_DIR$/python学习" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.binnary_img">
-    <configuration name="binnary_img" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="train_review" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencv学习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv学习/binnary_img.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="excise01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.merge_linked">
+    <configuration name="linked_public_node" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="train_review" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +66,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/excise01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/linked_public_node.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="excise02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="merge_linked" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="train_review" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,51 +88,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/excise02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="init_canvas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="train_review" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencv学习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv学习/init_canvas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="interpolation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="train_review" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencv学习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv学习/interpolation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python学习/merge_linked.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.binnary_img" />
-        <item itemvalue="Python.init_canvas" />
-        <item itemvalue="Python.interpolation" />
-        <item itemvalue="Python.excise02" />
-        <item itemvalue="Python.excise01" />
+        <item itemvalue="Python.merge_linked" />
+        <item itemvalue="Python.linked_public_node" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +117,7 @@
       <workItem from="1589177762393" duration="7664000" />
       <workItem from="1589186401026" duration="40000" />
       <workItem from="1589187246078" duration="9042000" />
-      <workItem from="1589199742644" duration="1186000" />
+      <workItem from="1589199742644" duration="8884000" />
     </task>
     <task id="LOCAL-00001" summary="添加注释">
       <created>1589180350207</created>
@@ -218,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589191247440</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="练习opencv">
+      <created>1589246209223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589246209223</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,70 +164,78 @@
     <MESSAGE value="添加注释" />
     <MESSAGE value="循环链表" />
     <MESSAGE value="对列" />
-    <option name="LAST_COMMIT_MESSAGE" value="对列" />
+    <MESSAGE value="练习opencv" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习opencv" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="448" y="143" key="CommitChangelistDialog2" timestamp="1589191247375">
+    <state x="360" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589256162207">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
-    <state x="448" y="143" key="CommitChangelistDialog2/0.23.1792.1044@0.23.1792.1044" timestamp="1589191247375" />
-    <state width="1748" height="72" key="GridCell.Tab.0.bottom" timestamp="1589243853725">
+    <state x="360" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1044@0.23.1792.1044" timestamp="1589256162207" />
+    <state x="448" y="143" key="CommitChangelistDialog2" timestamp="1589246209107">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
-    <state width="1748" height="72" key="GridCell.Tab.0.bottom/0.23.1792.1044@0.23.1792.1044" timestamp="1589243853725" />
-    <state width="1748" height="72" key="GridCell.Tab.0.center" timestamp="1589243853725">
+    <state x="448" y="143" key="CommitChangelistDialog2/0.23.1792.1044@0.23.1792.1044" timestamp="1589246209107" />
+    <state width="1748" height="188" key="GridCell.Tab.0.bottom" timestamp="1589265146347">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
-    <state width="1748" height="72" key="GridCell.Tab.0.center/0.23.1792.1044@0.23.1792.1044" timestamp="1589243853725" />
-    <state width="1748" height="72" key="GridCell.Tab.0.left" timestamp="1589243853724">
+    <state width="1748" height="188" key="GridCell.Tab.0.bottom/0.23.1792.1044@0.23.1792.1044" timestamp="1589265146347" />
+    <state width="1748" height="188" key="GridCell.Tab.0.center" timestamp="1589265146346">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
-    <state width="1748" height="72" key="GridCell.Tab.0.left/0.23.1792.1044@0.23.1792.1044" timestamp="1589243853724" />
-    <state width="1748" height="72" key="GridCell.Tab.0.right" timestamp="1589243853725">
+    <state width="1748" height="188" key="GridCell.Tab.0.center/0.23.1792.1044@0.23.1792.1044" timestamp="1589265146346" />
+    <state width="1748" height="188" key="GridCell.Tab.0.left" timestamp="1589265146346">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
-    <state width="1748" height="72" key="GridCell.Tab.0.right/0.23.1792.1044@0.23.1792.1044" timestamp="1589243853725" />
-    <state width="1748" height="352" key="GridCell.Tab.1.bottom" timestamp="1589186379794">
+    <state width="1748" height="188" key="GridCell.Tab.0.left/0.23.1792.1044@0.23.1792.1044" timestamp="1589265146346" />
+    <state width="1748" height="188" key="GridCell.Tab.0.right" timestamp="1589265146346">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
-    <state width="1748" height="352" key="GridCell.Tab.1.bottom/0.23.1792.1044@0.23.1792.1044" timestamp="1589186379794" />
-    <state width="1748" height="352" key="GridCell.Tab.1.center" timestamp="1589186379794">
+    <state width="1748" height="188" key="GridCell.Tab.0.right/0.23.1792.1044@0.23.1792.1044" timestamp="1589265146346" />
+    <state width="1748" height="352" key="GridCell.Tab.1.bottom" timestamp="1589255296621">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
-    <state width="1748" height="352" key="GridCell.Tab.1.center/0.23.1792.1044@0.23.1792.1044" timestamp="1589186379794" />
-    <state width="1748" height="352" key="GridCell.Tab.1.left" timestamp="1589186379793">
+    <state width="1748" height="352" key="GridCell.Tab.1.bottom/0.23.1792.1044@0.23.1792.1044" timestamp="1589255296621" />
+    <state width="1748" height="352" key="GridCell.Tab.1.center" timestamp="1589255296621">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
-    <state width="1748" height="352" key="GridCell.Tab.1.left/0.23.1792.1044@0.23.1792.1044" timestamp="1589186379793" />
-    <state width="1748" height="352" key="GridCell.Tab.1.right" timestamp="1589186379794">
+    <state width="1748" height="352" key="GridCell.Tab.1.center/0.23.1792.1044@0.23.1792.1044" timestamp="1589255296621" />
+    <state width="1748" height="352" key="GridCell.Tab.1.left" timestamp="1589255296620">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
-    <state width="1748" height="352" key="GridCell.Tab.1.right/0.23.1792.1044@0.23.1792.1044" timestamp="1589186379794" />
+    <state width="1748" height="352" key="GridCell.Tab.1.left/0.23.1792.1044@0.23.1792.1044" timestamp="1589255296620" />
+    <state width="1748" height="352" key="GridCell.Tab.1.right" timestamp="1589255296621">
+      <screen x="0" y="23" width="1792" height="1044" />
+    </state>
+    <state width="1748" height="352" key="GridCell.Tab.1.right/0.23.1792.1044@0.23.1792.1044" timestamp="1589255296621" />
     <state x="435" y="184" key="SettingsEditor" timestamp="1589193550567">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
     <state x="435" y="184" key="SettingsEditor/0.23.1792.1044@0.23.1792.1044" timestamp="1589193550567" />
-    <state x="496" y="285" key="Vcs.Push.Dialog.v2" timestamp="1589191251518">
+    <state x="496" y="285" key="Vcs.Push.Dialog.v2" timestamp="1589246214707">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
-    <state x="496" y="285" key="Vcs.Push.Dialog.v2/0.23.1792.1044@0.23.1792.1044" timestamp="1589191251518" />
+    <state x="496" y="285" key="Vcs.Push.Dialog.v2/0.23.1792.1044@0.23.1792.1044" timestamp="1589246214707" />
     <state x="672" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589184829508">
       <screen x="0" y="23" width="1792" height="1044" />
     </state>
     <state x="672" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1044@0.23.1792.1044" timestamp="1589184829508" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/train_review$init_canvas.coverage" NAME="init_canvas Coverage Results" MODIFIED="1589199280724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv学习" />
+    <SUITE FILE_PATH="coverage/train_review$linked_public_node.coverage" NAME="linked_public_node Coverage Results" MODIFIED="1589262384704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
     <SUITE FILE_PATH="coverage/train_review$single_link_list.coverage" NAME="single_link_list Coverage Results" MODIFIED="1589179639675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/train_review$excise02.coverage" NAME="excise02 Coverage Results" MODIFIED="1589192566533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
     <SUITE FILE_PATH="coverage/train_review$stack.coverage" NAME="stack Coverage Results" MODIFIED="1589185578234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
-    <SUITE FILE_PATH="coverage/train_review$queue.coverage" NAME="queue Coverage Results" MODIFIED="1589189064107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
-    <SUITE FILE_PATH="coverage/train_review$link_stack.coverage" NAME="link_stack Coverage Results" MODIFIED="1589188245783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
     <SUITE FILE_PATH="coverage/train_review$binnary_img.coverage" NAME="binnary_img Coverage Results" MODIFIED="1589243853700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv学习" />
     <SUITE FILE_PATH="coverage/train_review$single_link_list_circle.coverage" NAME="single_link_list_circle Coverage Results" MODIFIED="1589184784343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
     <SUITE FILE_PATH="coverage/train_review$two_stack_queue.coverage" NAME="two_stack_queue Coverage Results" MODIFIED="1589191198286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
+    <SUITE FILE_PATH="coverage/train_review$init_canvas.coverage" NAME="init_canvas Coverage Results" MODIFIED="1589199280724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv学习" />
+    <SUITE FILE_PATH="coverage/train_review$excise02.coverage" NAME="excise02 Coverage Results" MODIFIED="1589192566533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
+    <SUITE FILE_PATH="coverage/train_review$queue.coverage" NAME="queue Coverage Results" MODIFIED="1589189064107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
+    <SUITE FILE_PATH="coverage/train_review$link_stack.coverage" NAME="link_stack Coverage Results" MODIFIED="1589188245783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
+    <SUITE FILE_PATH="coverage/train_review$linked_reverse.coverage" NAME="linked_reverse Coverage Results" MODIFIED="1589250936987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
     <SUITE FILE_PATH="coverage/train_review$excise01.coverage" NAME="excise01 Coverage Results" MODIFIED="1589192075683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
     <SUITE FILE_PATH="coverage/train_review$interpolation.coverage" NAME="interpolation Coverage Results" MODIFIED="1589196376442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv学习" />
     <SUITE FILE_PATH="coverage/train_review$linked_list_queue.coverage" NAME="linked_list_queue Coverage Results" MODIFIED="1589190844980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
+    <SUITE FILE_PATH="coverage/train_review$merge_linked.coverage" NAME="merge_linked Coverage Results" MODIFIED="1589265121416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python学习" />
   </component>
 </project>

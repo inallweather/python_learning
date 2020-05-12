@@ -27,7 +27,7 @@ class Solution:
         while node:
             k_list.append(node.value)
             node = node.next
-        if k > len(k_list) or k < 1:
+        if k > len(k_list) or k <= 0:
             return None
         return k_list[-k]
 
