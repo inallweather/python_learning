@@ -51,7 +51,6 @@ class MergeLinkedList:
         elif h1:
             new_linked.next = h1
 
-
         return merge_linked
 
 
